@@ -1,3 +1,5 @@
-import droidProducer  from "./index";
+import droidProducer from "./index";
 
-console.log()
+const n = droidProducer("asdsa")
+
+console.log(n.info())
